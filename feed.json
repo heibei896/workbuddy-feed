@@ -1,1 +1,298 @@
-{"date": "2026-08-19", "marketing": [{"ttl": "七夕营销周报：HBN求真 / 天猫岁月银河 / 沃尔玛30年 / 遗忘垃圾桶", "src": "现代广告杂志社 · 网易（营销周报 第33周）", "time": "2026-08-17", "sum": "七夕营销从'送礼物'转向情感厚度与公益叙事，多家品牌以反套路打法出圈", "url": "https://dy.163.com/article/L4IAPNL105502ZGU.html", "body": "本周营销周报聚焦七夕战场：HBN成立七周年携手汪苏泷发布《千真万确》，以'反复求证'呼应功效实证；天猫快速消费品推《走过银河的恋人》，用两对真实老年夫妇诠释'岁月才是真正的银河'；沃尔玛入华30年推品牌片《我和沃尔玛》，以AI唤醒老照片唤起一代人记忆；天猫绿动联合宠物品牌上线公益'遗忘垃圾桶'，以垃圾桶意象呼吁勿遗弃宠物。节日营销正从同质化礼物叙事转向情感厚度与社会价值。", "location": "", "highlights": ""}, {"ttl": "M·A·C魅可×泡泡玛特SKULLPANDA 七夕联名限定快闪落地西岸", "src": "澎湃新闻", "time": "2026-08-17", "sum": "彩妆邂逅潮玩，M·A·C携手SKULLPANDA在西岸梦中心首发'万物生花，爱是永恒'七夕联名", "url": "https://www.thepaper.cn/newsDetail_forward_33798756", "body": "知名美妆品牌M·A·C魅可携手泡泡玛特旗下人气IP SKULLPANDA，在西岸梦中心开启'万物生花，爱是永恒'七夕联名限定系列快闪首发。联名将专业彩妆与潮玩文化融合，借繁花意象诠释'爱意无惧枯荣、永恒延续'。限定系列含'轻'尤雾弹唇膏与'24H'卷王气垫，礼盒融入SKULLPANDA'花的四幕戏'艺术设计。活动以文商旅融合激活区域消费，为年轻人提供打卡与情感表达新场景。", "location": "", "highlights": ""}, {"ttl": "Lee Cooper×英氏YeeHoO '抱抱'深睡之书联名", "src": "中国商业网", "time": "2026-08-18", "sum": "百年牛仔品牌Lee Cooper携手婴童品牌英氏，把'抱抱'做成一件可穿的深睡衣", "url": "https://www.zgswcn.com/news.html?aid=363738", "body": "2026年8月18日，英国百年牛仔生活方式品牌Lee Cooper与高端婴童品牌英氏YeeHoO共同推出'抱抱'深睡之书。这不是文字书，而是一件可穿在身上的深睡衣——用面料书写、以版型叙述'自己把自己当孩子养'的夜间故事。系列选用英氏同源A类面料，搭载Lee Cooper专属5D深睡版型，复刻婴儿被怀抱的原生治愈感，以母婴级安心标准切入成人贴身衣物安全痛点。", "location": "", "highlights": ""}, {"ttl": "2026七夕'情绪经济'爆发：珀莱雅×Pingu、百雀羚×缂丝、花西子信物大屏", "src": "搜狐 · 化妆品报", "time": "2026-08-18", "sum": "美妆品牌集体'过情关'，七夕从情侣叙事转向悦己、知己、文化共鸣的多元表达", "url": "https://m.sohu.com/a/1063944778_122066679", "body": "2026七夕正从'爱情限定款'进化为'情绪全场景解决方案'：珀莱雅牵手冷萌IP Pingu推出七夕礼盒，包装写'给每天抢我最后一块西瓜的人'；百雀羚回归乞巧节，联名非遗缂丝推'雀上心头'礼盒，祝福每一位女性；花西子发起全民信物故事征集，把普通人故事搬上全国10城大屏。巨量引擎白皮书显示'给自己送礼'搜索同比涨273%，品牌营销正把叙事权交还给消费者。", "location": "", "highlights": ""}, {"ttl": "Coperni 推出'活体真菌包'引爆话题", "src": "穿针引线 CFW", "time": "2026-08-06", "sum": "巴黎时装周常客Coperni再出怪诞创意，透明包身内封存正在生长的活体真菌", "url": "https://d.cfw.cn/xuexi/394764-1.html", "body": "一向深谙先锋话题营销的Coperni，携手柏林艺术家Arevik Hakobyan推出Swipe包系列——包身透明腔体内封存着持续生长的活体真菌。蓝绿渐变霉菌如天然生物油画，深色菌株款式可见钱币存放其中，宛如微型微生物培养皿。作品以'会生长、衰老、消亡的活体艺术'解构奢侈品永恒保值叙事，并借争议自带社交裂变属性，持续占据时尚舆论焦点。", "location": "", "highlights": ""}], "tech": [{"ttl": "谷歌WeatherNext Cyclones登Nature并开源，台风预警多一天", "src": "Unite.AI · Google DeepMind", "time": "2026-08-06", "sum": "Google DeepMind在Nature发表WeatherNext，热带气旋预警提前约24小时，并开源代码与权重", "url": "https://www.unite.ai/googles-weathernext-2-gains-a-full-day-of-cyclone-warning-goes-open-source", "body": "Google DeepMind在Nature发表WeatherNext Cyclones，用单一AI模型统一预测热带气旋的路径、强度与风圈，较主流业务系统平均提前约24小时达到同等精度（三天预报≈以往两天）。模型以28×28公里粗分辨率运行，用功能生成网络输出1000个成员集合，单次15天预报在单块TPU上不到1分钟。代码与权重以Apache 2.0开源，已在2025大西洋飓风季协助预报飓风Melissa快速增强与登陆。", "location": "", "highlights": ""}, {"ttl": "日本电气NEC成立'全AI员工部门'，无一名真人", "src": "财联社", "time": "2026-08-11", "sum": "NEC设立全球罕见的'企业AI·劳动力部门'，17个AI智能体组成，与人事法务平级", "url": "https://www.cls.cn/detail/2451283", "body": "日本电气(NEC)本周宣布成立'企业AI·劳动力部门'，该部门没有任何真人员工，完全由AI组成，却在集团内与人事、法务等部门平级。部门设4个层级（AI部门长、AI董事会、AI经理、AI员工），AI经理按需求生成AI员工并先完成企业文化与规章入职培训。NEC称核心操作用时缩短至约1/7，人类保留最终评估与管控权责，预计本财年向外部客户提供此类服务。", "location": "", "highlights": ""}, {"ttl": "阿里云开源流存储Fluss正式成为Apache顶级项目", "src": "Apache软件基金会 · 阿里云", "time": "2026-08-06", "sum": "阿里云捐赠的流式存储Apache Fluss从孵化器毕业成为顶级项目，支撑Agentic Lake实时化", "url": "https://news.apache.org/foundation/entry/the-apache-software-foundation-announces-new-top-level-projects-5", "body": "Apache软件基金会宣布，由阿里云捐赠并开源的流式存储项目Apache Fluss正式从孵化器毕业成为顶级项目(TLP)，提案获全票通过。Fluss在数据湖之上构建湖仓原生的实时流存储层，提供秒级更新的上下文，支撑企业级Agent实时决策，已在阿里、小红书、爱奇艺、蚂蚁等规模化落地。其Lakestream架构统一流与湖仓，被视为Agentic Lake的实时数据底座。", "location": "", "highlights": ""}, {"ttl": "北京首座词元工厂日产1.4万亿词元", "src": "北京日报 · 北京亦庄", "time": "2026-06-29", "sum": "亦庄建成北京壹号词元工厂，一期日产能1.4万亿词元，远期目标10万亿", "url": "https://xinwen.bjd.com.cn/content/s6a428be6e4b0e45f3fd3d16c.html", "body": "北京经开区披露词元经济布局：建成全市首个词元工厂'北京壹号词元工厂'，推动能源、芯片、数据集与大模型深度耦合，一期日产能突破1.4万亿词元，半数任务6秒内交付、九成10秒内响应。与传统算力中心出租算力卡不同，词元工厂直接以算力生产词元，并规划建设跨模型调度的'超级入口'与词元交易定价模式，远期联动张家口、乌兰察布绿电基地迈向日产10万亿词元。", "location": "", "highlights": ""}, {"ttl": "越疆发布全球首款具身全栖人形机器人DOBOT LUMO", "src": "中国网 · 物联网频道", "time": "2026-08-05", "sum": "越疆鹿萌(DOBOT LUMO)实现情绪感知、主动行动与长期进化，开启智能陪伴代际升级", "url": "https://big5.china.com.cn/gate/big5/iot.china.com.cn/content/2026-08/06/content_43472907.shtml", "body": "2026年8月5日，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌(DOBOT LUMO)，身高约1.3米，基于全栈自研'空弈'具身大模型，实现多模态情绪感知、三维空间理解与主动行动、自主学习与长期进化三大突破。它可穿梭草坪、沙地等复杂地形，从户外运动陪练切换为居家情感陪伴，夜间感知主人入睡自动关灯，标志着中国千亿级智能陪伴市场迎来代际升级。", "location": "", "highlights": ""}], "daily": [{"ttl": "住房公积金大变化：装修、交物业费可提，租房不再设收入门槛", "src": "金十数据", "time": "2026-08-19", "sum": "住房公积金使用范围扩容，装修与物业费可提取，租房提取取消收入门槛", "url": "https://xnews.jin10.com/details/227726", "body": "据金十数据全球财经早餐，住房公积金迎来大变化：装修、交物业费可提取，租房使用不再设收入门槛。此举有望降低居民居住成本、提升公积金使用效率，被视为呼应'住有所居'的民生利好。", "location": "", "highlights": ""}, {"ttl": "今冬或形成超强厄尔尼诺事件，大概率为历史最强", "src": "金十数据", "time": "2026-08-19", "sum": "预警显示今冬可能形成超强厄尔尼诺，大概率成为历史最强", "url": "https://xnews.jin10.com/details/227726", "body": "金十数据国内要闻显示，今冬或形成超强厄尔尼诺事件，大概率为历史最强。气象部门提示需关注其对今冬气温、降水及农业生产的潜在影响，提前做好应对准备。", "location": "", "highlights": ""}, {"ttl": "云南'低价团'乱象：多家旅行社、导游拟被吊销证照", "src": "央视《财经调查》· 腾讯新闻", "time": "2026-08-19", "sum": "16日曝光云南低价团乱象，18日云南省文旅厅通报拟吊销多家旅行社与导游证照", "url": "https://news.qq.com/rain/a/20260819A02U3E00", "body": "总台《财经调查》8月16日曝光云南'低价团'乱象后，云南省文化和旅游厅8月18日发布通报，多家旅行社、多名导游拟被吊销证照。通报要求全面整治强迫购物、欺客宰客等乱象，维护旅游市场秩序与消费者权益。", "location": "", "highlights": ""}, {"ttl": "金融监管总局支持内地险企通过沪深港通投资香港ETF", "src": "金十数据", "time": "2026-08-19", "sum": "金融监管总局发文支持内地保险机构通过沪深港通投资香港交易所买卖基金", "url": "https://xnews.jin10.com/details/227726", "body": "金十数据显示，金融监管总局支持内地保险机构通过沪深港通投资香港交易所买卖基金(ETF)。此举将拓宽险资配置渠道、深化内地与香港资本市场互联互通。", "location": "", "highlights": ""}, {"ttl": "兆易创新上半年净利润同比增长1091.5%", "src": "金十数据", "time": "2026-08-19", "sum": "半导体龙头兆易创新中报净利同比大增1091.5%，行业景气回升", "url": "https://xnews.jin10.com/details/227726", "body": "金十数据国内要闻显示，兆易创新上半年净利润同比增长1091.5%。在存储芯片涨价与需求回暖背景下，公司业绩大幅反弹，反映半导体板块景气上行。", "location": "", "highlights": ""}, {"ttl": "印尼7.7级强震死亡升至70人", "src": "新华社英文网", "time": "2026-08-19", "sum": "印尼东努沙登加拉省7.7级地震死亡人数升至70人，132人受伤", "url": "https://english.news.cn/20260819/2cd20a5e8a2d494e8f2119345f0a9469/c.html", "body": "据新华社英文网8月19日报道，印尼东努沙登加拉省7.7级地震死亡人数已升至70人，132人受伤。目前无更多失踪报告，搜救重点转向区域排查与灾后恢复。中国已向印尼提供紧急人道主义救灾援助。", "location": "", "highlights": ""}, {"ttl": "霍尔木兹海峡博弈升级：特朗普'新领土论'遭伊朗驳斥，阿联酋暂停与伊朗贸易", "src": "新华社英文网 · 湖南日报", "time": "2026-08-19", "sum": "特朗普称霍尔木兹为'美国新领土'，伊朗议长称将继续关闭海峡；阿联酋暂停与伊贸易", "url": "https://english.news.cn/20260819/2cd20a5e8a2d494e8f2119345f0a9469/c.html", "body": "围绕霍尔木兹海峡的博弈持续升级：特朗普8月18日将海峡标注为'美国新领土'，并称未与伊朗进行任何会谈；伊朗议长卡利巴夫同日表示，在美国满足谅解备忘录条件前海峡将继续关闭。阿联酋称检测到来自伊朗方向的弹道导弹，宣布暂停与伊朗一切贸易、商业和金融交易。卡塔尔正推动美伊恢复谈判。", "location": "", "highlights": ""}, {"ttl": "刚果(金)埃博拉疫情失控：确诊超5000例、死亡2378例", "src": "新华社英文网 · WHO", "time": "2026-08-19", "sum": "WHO警告刚果(金)埃博拉疫情远未受控，确诊超5000例、病死率47.4%", "url": "https://english.news.cn/20260819/2cd20a5e8a2d494e8f2119345f0a9469/c.html", "body": "WHO 8月19日警告，刚果(金)埃博拉疫情仍远未受控，截至8月16日已报告5021例确诊，覆盖6省55个卫生区，病死率47.4%，死亡2378例。谭德塞称疫情已领先于应对努力，存在国内与国际进一步扩散的高风险。", "location": "", "highlights": ""}, {"ttl": "日本东部创纪录暴雨死亡升至13人", "src": "新华社英文网", "time": "2026-08-19", "sum": "千叶县创纪录暴雨死亡升至13人，约2700辆车被淹滞留", "url": "https://english.news.cn/20260819/2cd20a5e8a2d494e8f2119345f0a9469/c.html", "body": "日本千叶县上周创纪录暴雨死亡人数升至13人，1人失踪。全县2300余栋房屋受损，约2700辆车仍被淹滞留道路。日本气象厅曾发布最高级别5级大雨与山体滑坡紧急警报。", "location": "", "highlights": ""}, {"ttl": "OpenAI暂缓部分前沿模型训练两周以加强安全监控", "src": "金十数据", "time": "2026-08-19", "sum": "OpenAI称暂时放缓部分前沿模型训练两周强化安全；Anthropic数周内或启动IPO", "url": "https://xnews.jin10.com/details/227726", "body": "金十数据国际要闻显示，OpenAI表示已暂时放缓部分前沿模型训练，为期两周，以加强安全和监控。另据消息，Anthropic预计将在数周内启动IPO流程。同时10年期美债收益率一度升至4.75%，创2025年1月以来新高。", "location": "", "highlights": ""}], "leisure": [{"ttl": "2026世界机器人大会", "src": "北京本地宝 · 北京经开区", "time": "2026-08-19 至 2026-08-23", "sum": "人机共生·产需共融，四大展馆呈现机器人整机与核心零部件", "url": "https://bj.bendibao.com/xiuxian/zhoumohd/?search=", "body": "2026世界机器人大会8月19日至23日在北京经济技术开发区北人亦创国际会展中心举办，主题'人机共生，产需共融'。设智创馆、智合馆、智造馆、智趣馆四大展馆，覆盖前沿机器人整机、国际企业创新成果与核心零部件。需购票，可通过公众号'世界机器人大会'购买。", "location": "北京经济技术开发区北人亦创国际会展中心（亦庄）", "highlights": "需购票（公众号'世界机器人大会'）；本周多雷阵雨，建议错峰出行并带伞；适合亲子与科技爱好者"}, {"ttl": "中国工美馆七夕'星河入梦 非遗寄情'", "src": "文旅北京", "time": "2026-08-18 至 2026-08-23（增设夜场至21:00）", "sum": "非遗奇妙夜+乞巧会+《可以观》演艺+露台赏星河，沉浸式过七夕", "url": "https://www.sohu.com/a/1064421401_121106842", "body": "中国工艺美术馆(中国非物质文化遗产馆)8月18日至23日推出'星河入梦 非遗寄情'七夕主题系列活动：非遗馆奇妙夜全馆开放；七夕乞巧会展出清苑制香、白族扎染、绒花等8项非遗；一层多功能厅上演《可以观》沉浸式演艺；四层直清阁露台可赏奥园夜景与星河。", "location": "中国工艺美术馆·中国非物质文化遗产馆（朝阳区湖景东路16号）", "highlights": "需提前1-7天通过公众号实名预约（夜场选13:00-20:30时段）；20:30停止入馆；免费参观，部分演艺需单独预约"}, {"ttl": "第35届北京国际燕京啤酒文化节", "src": "北京本地宝", "time": "2026-08-14 至 2026-08-23", "sum": "室内外双场景夏日狂欢，美食矩阵+舞台演艺+酒王争霸", "url": "https://bj.bendibao.com/xiuxian/?page=4", "body": "第35届北京国际燕京啤酒文化节8月14日至23日落地首都国际会展中心（顺义），开启室内外双场景狂欢。四大美食矩阵集结地道京味到环球美食，10天主题夜轮番上演爵士、摇滚、民谣、电音；设'啤酒交易所''酒王争霸赛'等趣味玩法，四款新品亮相。", "location": "首都国际会展中心（顺义区裕东路55号院，新国展二期）", "highlights": "门票9.9元起，建议提前购票；夜间客流大注意财物与饮酒适度；本周多雨带伞"}, {"ttl": "牛马旷野艺术节", "src": "北京本地宝", "time": "2026-08-19 至 2026-08-23", "sum": "隆福寺5天旷野狂欢，把自由、烟火、艺术与温柔带回都市", "url": "https://bj.bendibao.com/xiuxian/zhoumohd/?search=", "body": "牛马旷野艺术节8月19日至23日在东城区隆福寺举办，整整5天旷野狂欢，把自由、烟火、艺术与温柔带回都市。每一位主理人都是生活的诗人，集艺术市集、演出与慢生活于一体，是七夕前后city walk与放松的好去处。", "location": "东城区隆福寺", "highlights": "免费参与；建议工作日晚间前往避开周末高峰；可联动隆福寺商圈逛吃"}, {"ttl": "第六届金台市集·CBD咖啡青年节", "src": "北京本地宝", "time": "2026-08-20 至 2026-08-23（11:00-20:00）", "sum": "百余家咖啡美食文创品牌集结财富FFC南广场，用一杯咖啡解锁秋天", "url": "https://bj.bendibao.com/xiuxian/?page=4", "body": "第六届金台市集CBD咖啡青年节8月20日至23日在北京财富金融中心(FFC)南广场举办，精选百余家优质咖啡、美食、文创品牌，世界级与国家冠军咖啡师现场助阵。活动免费，是七夕后解锁秋日微醺与社交的轻松选择。", "location": "北京财富金融中心(FFC)南广场（朝阳区，地铁10号线金台夕照A口）", "highlights": "免费免预约；11:00-20:00；周末午后人多，建议工作日前来或早到；自带杯更环保"}], "english": {"听": [{"title": "BBC 6 Minute English · Who does the housework? (Ep.260813)", "source": "BBC Learning English", "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813", "body": "BBC 6 Minute English — Who does the housework? (Episode 260813 / 13 Aug 2026)\n\nNeil: Hello, this is 6 Minute English from BBC Learning English. I'm Neil.\nPippa: And I'm Pippa. When it comes to household chores, jobs like cleaning, washing clothes or looking after the kids, it's often women who do most of the work.\nListener 1: I do everything. I do all the house chores, I do the food shopping, I do all the cooking, I clean the bathroom.\nListener 2: Are the chores done equally between me and my husband? No, they're not done equally. I do most of the chores.\nPippa: So, you're a family man, Neil. Do you do your fair share of household chores?\nNeil: I think so. My wife works part time and I work full time, so when I'm not working, I do things, and when she's not working, she does things.\nPippa: Yeah, it's similar in my house... but it's difficult, isn't it?\nPippa: Figures from UN Women suggest that every day women around the world spend three hours more than men on unpaid care and domestic work. So, in this episode, we'll be hearing about two projects helping husbands and wives share the housework more fairly.\nNeil: But now I have a question for you, Pippa. According to a survey by Good Housekeeping magazine, what is the most hated household chore in Britain? a) deep cleaning the oven, b) scrubbing the toilet, or c) cleaning the windows?\nPippa: I'm going to say deep cleaning the oven because I really hate that job.\nNeil: The first project is on the remote Indonesian island of Rote... these domestic chores take a long time. The NGO ARUNGI runs a project trying to change attitudes. Mama Shilpa: It is expected that the tasks done in the house... will all be done by the mother.\nNeil: On Rote, cleaning, cooking and sweeping are considered women's work — a negative term for boring and repetitive tasks traditionally done by women.\nPippa: Many cultures have a division of labour — a way of organising work where different tasks are done by different groups of people.\nNeil: Research suggests women in wealthy countries also spend much more time on unpaid care work. One such country is Croatia, where the NGO Status M run their Superdads project. Anamarija Sočo: Mothers have more space for their careers, or hobbies, or just simply to rest — I mean, just to take a breather. Women tend to especially appreciate men who do these kinds of chores. And when they start pulling their weight, then they jokingly say that women tend to nag less.\nPippa: Sometimes mums need to take a breather — an informal way of saying stop and rest a while.\nNeil: Anamarija also thinks women appreciate it when their husbands pull their weight. If you pull your weight, you work as hard as everyone else.\n[Vocabulary: chores / fair share / women's work / division of labour / take a breather / pull your weight]\n[Quiz answer: c) cleaning the windows — 23% of people hated it most.]", "zh": "BBC 六分钟英语——《谁做家务？》（260813期 / 2026年8月13日）\n\n尼尔：你好，这里是BBC英语教学六分钟英语。我是尼尔。\n皮帕：我是皮帕。说到家务，像打扫、洗衣服或照顾孩子，往往是女性做得最多。\n听众1：我什么都做——买菜、做饭、打扫卫生间。\n听众2：我和丈夫家务平分吗？不，大部分是我做。\n皮帕：联合国妇女署数据显示，全球女性每天在无酬照护和家务上比男性多花3小时。本期我们听两个帮助夫妻更公平分担家务的项目。\n尼尔：问你个问题——英国最讨厌的家务是？a)深度清洁烤箱 b)刷马桶 c)擦窗户？\n皮帕：我猜是深度清洁烤箱。\n尼尔：第一个项目在印尼偏远的罗地岛……当地家务耗时很长。NGO ARUNGI试图改变观念。希尔巴妈妈：家里的活——抱孩子、喂饭、洗碗、做饭——都被认为是母亲的事。\n皮帕：许多文化都有\"劳动分工\"——不同群体分担不同工作。\n尼尔：克罗地亚的Superdads项目鼓励爸爸和儿子分担。阿纳玛丽亚：妈妈能有更多空间做事业、爱好或只是休息——也就是\"喘口气\"。女性尤其欣赏做家务的男性；当他们\"尽到本分\"，妈妈们开玩笑说唠叨也少了。\n皮帕：\"take a breather\"就是歇一会儿；\"pull your weight\"是尽到与他人相当的本分。\n[词汇：chores 家务 / fair share 公平份额 / women's work 女性专属活儿 / division of labour 劳动分工 / take a breather 喘口气 / pull your weight 尽到本分]\n[测验答案：c) 擦窗户——23%的人最讨厌。]"}], "说": [{"title": "Speaking · Describe how chores are shared in your home", "source": "原创练习", "url": "", "body": "In many households, the question of who does the housework can be sensitive. Talk for 1-2 minutes about: Who does most of the chores in your home? Is the division of labour fair? What small change would make it more equal? Use at least three of these words: chores, fair share, pull your weight, take a breather, division of labour.", "zh": "在很多家庭里，'谁做家务'是个敏感话题。用1–2分钟谈谈：你家里谁做得最多？分工公平吗？有什么小改变能让它更平等？至少用到下面三个词：chores、fair share、pull your weight、take a breather、division of labour。"}], "读": [{"title": "China Daily · Growth driver shifts from bricks to bits", "source": "China Daily (by former PM of Mongolia)", "url": "https://www.chinadaily.com.cn/a/202608/17/WS6a826840a31073853ec539ab.html", "body": "China Daily — Growth driver shifts from bricks to bits (Opinion, Updated: 2026-08-17)\n\nIf you want to understand where the world is heading, stop looking at the skyscraper cranes in Beijing and start looking at the 5G base stations in the countryside.\n\nFor decades, the story of China was the story of \"hard infrastructure\" — concrete, steel and a property market that seemed like it would never stop climbing. But something fundamental has changed.\n\nWhile the world was busy watching China's real estate sector contract by 0.2 percent and its construction industry dip by 4 percent in the first half of 2026, the country was quietly finishing a massive rewiring of its entire economic base.\n\nChina's GDP still grew by a steady 4.7 percent to reach 69.57 trillion yuan in the first half of 2026, but the engines driving that growth weren't bulldozers — they were algorithms.\n\nChina is building a new kind of \"central nervous system\" for its society. By July 2026, the country had installed 5.1 million 5G base stations. And it isn't stopping there. It has already made significant strides in verifying 6G system architecture.\n\nThe second layer of this rewiring is energy. China didn't just meet its 2030 wind and solar power targets — it crushed them six years early in 2024. By the end of July 2026, its solar capacity hit a staggering 1,274 gigawatts.\n\nOn July 17, 2026, President Xi Jinping stood up at the World AI Conference in Shanghai and essentially offered to share the \"operating system\" of this new era with the rest of the world. He called AI a \"symphony of international cooperation\" rather than a solo act.\n\nWhile some are trying to build an \"AI Iron Curtain\", China is pitching an open-source model where intelligence is a public good, not a private commodity.\n\nThe core conclusion is this: China is betting that if you automate the basics, you change the \"superstructure\" of society itself. As the 15th Five-Year Plan (2026-30) began, China is moving toward a future of technological abundance.\n\nThe only question left is: Who else is ready to play in the orchestra?\n\n(The author is a former prime minister of Mongolia.)", "zh": "《中国日报》——增长引擎从\"钢筋\"转向\"比特\"（观点版，2026-08-17更新）\n\n如果你想理解世界去向何方，别再看北京的建筑塔吊，去看看乡村的5G基站。\n\n几十年来，中国的故事是\"硬基建\"的故事——混凝土、钢铁，以及一个似乎永不落幕的房地产市场。但根本性的改变已经发生。\n\n当全世界盯着2026年上半年中国房地产收缩0.2%、建筑业下滑4%时，中国正悄然完成对整个经济基底的一次大规模\"重新布线\"。\n\n2026年上半年中国GDP仍稳健增长4.7%，达69.57万亿元，但驱动增长的引擎不是推土机，而是算法。\n\n中国正在为社会构建一种全新的\"中枢神经系统\"。截至2026年7月，中国已建成510万个5G基站，并在6G系统架构验证上取得重大进展。\n\n这层\"重新布线\"的第二层是能源。中国不仅达成了2030风光目标，更提前六年、于2024年超额完成；到2026年7月底，太阳能装机达惊人的1274吉瓦。\n\n2026年7月17日，习近平主席在上海世界人工智能大会上，实质上是向全球伸出共享新时代\"操作系统\"的橄榄枝，称AI是\"国际合作的交响乐\"而非独奏。\n\n当一些国家试图筑起\"AI铁幕\"时，中国提出的是开源模式——智能是公共品，而非私有商品。\n\n核心结论是：中国押注，若把基础事务自动化，就能改变社会自身的\"上层建筑\"。随着\"十五五\"开启，中国正迈向技术丰裕的未来。\n\n剩下唯一的问题是：还有谁准备好加入这支交响乐团？\n\n（作者为蒙古国前总理。）"}], "写": [{"title": "Writing · A short opinion piece on 'bricks to bits'", "source": "原创练习", "url": "", "body": "China's economic engine is shifting from 'bricks' (concrete and steel) to 'bits' (algorithms and green energy). Write a 120-150 word opinion piece: Do you think your country/city is moving from hard infrastructure to digital and green drivers? Give one example. Use: central nervous system, rewiring, public good.", "zh": "中国经济增长引擎正从'钢筋水泥'转向'算法与绿电'。写一篇120–150词的评论：你认为你所在的国家/城市是否也在从硬基建转向数字与绿色驱动？举一个例子。用到：central nervous system、rewiring、public good。"}], "练": [{"title": "Vocabulary & Grammar · Household & economy words", "source": "原创练习", "url": "", "body": "Vocabulary check: 1) chores — regular household tasks. 2) fair share — a reasonable amount. 3) pull your weight — work as hard as others. 4) take a breather — rest briefly. 5) division of labour — organising work by group. Grammar: 'Women spend three hours more than men on unpaid work.' Make 2 similar comparisons using 'more than' about your own life.", "zh": "词汇：1) chores 定期家务；2) fair share 合理份额；3) pull your weight 尽到本分；4) take a breather 短暂休息；5) division of labour 劳动分工。语法：'女性在无酬家务上比男性多花3小时。'用'more than'造两个关于你自己的类似比较句。"}]}}
+{
+  "date": "2026-08-20",
+  "marketing": [
+    {
+      "ttl": "RIMOWA《交汇,非凡旅程》周杰伦×樊振东破次元同框",
+      "src": "SocialBeta",
+      "time": "2026-08-04",
+      "sum": "RIMOWA latest ad pairs Jay Chou and Fan Zhendong in an unscripted ping-pong duel, mining 'realness' over staged celebrity personas.",
+      "url": "https://api.socialbeta.com/article/111275",
+      "body": "RIMOWA 邀周杰伦与樊振东在片场后台即兴乒乓对决，以《三年二班》为BGM、预藏'716/FAN/9248'符号彩蛋，把明星'真实感'而非'活人感'作为新叙事核心，激发网友解谜式传播。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "瑞幸'后妈拿铁'：迪士尼反派IP成流量密码",
+      "src": "新浪财经·品牌公关局",
+      "time": "2026-08-12",
+      "sum": "Luckin rides Disney villain Evil Queen collab to pre-launch hype, betting on 'rebellious' emotion over gentle IPs.",
+      "url": "https://t.cj.sina.cn/articles/view/1676208757/63e8ea7500101f4a6",
+      "body": "瑞幸以迪士尼反派'邪恶皇后'为灵感推出阿克苏苹果拿铁，配文案'本品无毒请放心饮用'，未发先火——用一个反套路IP+自嘲文案把IP人设、产品意象、玩梗文案一次性绑死，吃透年轻人'要个性不要乖巧'的情绪。联名下半场拼的是情绪精准度。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "OLAY×VERA WANG 七夕联名：把价值观写进护肤",
+      "src": "新浪财经·品牌公关局",
+      "time": "2026-08-16",
+      "sum": "OLAY's Qixi collab with Vera Wang leans on 'beauty without age fear' — 77-year-old Wang unscripted on camera.",
+      "url": "https://t.cj.sina.com.cn/articles/view/1676208757/63e8ea7500101f4uk",
+      "body": "OLAY 8月11日在广州与华裔设计师品牌 VERA WANG 推出七夕限定联名礼盒（VERA WANG 首次涉足护肤），77岁 Vera Wang 亲自出镜、不藏皱纹不修柔光，主打'美，无惧年龄'的价值观共振——联名下半场拼的不是曝光多大的 IP，而是双方价值观是否真能对上。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "八喜节'喜出望外'：老字号用漫画艺术赋能情绪消费",
+      "src": "中国日报网",
+      "time": "2026-08-10",
+      "sum": "Baxy Ice Cream Festival turns a Beijing mall into a 'joy living room' with comics + 100k sweet giveaways.",
+      "url": "https://cnews.chinadaily.com.cn/a/202608/10/WS6a79442ea310d709c2fc250b.html",
+      "body": "8月7日至16日，2026八喜节在北京 THE BOX 朝外以'喜出望外'为主题启幕：联合北京漫画学会打造'牛奶与生活'蛋糕盒漫画展，十万份百元券、8.8元抢蛋糕、甜运扭蛋机等线上线下联动，把抽象'喜'变成可参与可带走的真实体验，助力夜间经济与文商旅融合。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "古井贡酒任命古天乐为品牌大使：存量时代看契合不看流量",
+      "src": "新浪财经·品牌公关局",
+      "time": "2026-08-13",
+      "sum": "Gujing Gongjiu taps Louis Koo as brand ambassador, using name pun + upright image to punch above ad spend.",
+      "url": "https://t.cj.sina.cn/articles/view/1676208757/63e8ea7500101f4a6",
+      "body": "8月12日古井贡酒在合肥宣布古天乐出任品牌大使；在白酒存量竞争、名酒批发价走弱背景下，区域名酒借古天乐正面形象+谐音梗放大传播，是用最小外部资源撬动品牌记忆点的典型打法——存量时代代言人不看流量看契合。",
+      "location": "",
+      "highlights": ""
+    }
+  ],
+  "tech": [
+    {
+      "ttl": "南京大学'光语芯'：把光信号直接转成词元，边缘AI能效提升超10倍",
+      "src": "科技日报/腾讯财经",
+      "time": "2026-08-19",
+      "sum": "NJU team's 'Guangyu Chip' does in-sensor tokenization, cutting edge-AI power by 10x per Nature Sensors.",
+      "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026081918204398c859d8",
+      "body": "南京大学缪峰、梁世军团队联合新加坡国立大学，研制出直接将光转换为词元的超低功耗智能视觉传感器'光语芯'：在传感器内完成图像采集、分块与嵌入，从物理层面绕开数据搬运瓶颈，识别准确率达87.3%，词元化阶段能效较传统方案提升超10倍，为具身智能、低空无人机、智能安防提供近零延迟视觉基座。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "诚恒微 CH37 边端侧AI SoC 亮相：单芯片集成六大视觉引擎",
+      "src": "腾讯财经/21世纪经济报道",
+      "time": "2026-08-17",
+      "sum": "Chengheng Micro CH37 packs CPU+GPGPU+NPU+DSP on one SoC for robotics & vision inspection.",
+      "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260817170648a4b19ab2",
+      "body": "诚恒微电子 CH37 系列边端侧 AI SoC 将 CPU、GPGPU、NPU、DSP 及专用加速器集成于单芯片，六大一体化视觉处理引擎使端到端效率较传统多芯片方案提升50%+、系统功耗降30%、体积缩40%；重点落地 AI 边缘盒子、智能视觉巡检与具身智能，下一代强化 VLA 专用加速。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "AI 技能普惠：中国推动 AI literacy 进车间进社区",
+      "src": "China Daily",
+      "time": "2026-08-17",
+      "sum": "China democratizes AI skills via free 'AI night schools' bridging models and the real economy.",
+      "url": "https://ex.chinadaily.com.cn/exchange/partners/70/rss/channel/www/columns/y38633/stories/WS6a8264bca31073853ec53982.html",
+      "body": "中国以政策推动 AI 技能普惠：南通'绿洲火花 AI 夜校'免费开课（基础办公自动化到家纺、医疗行业应用），单场吸引近2万线上线下参与者；上海将 AI 训练师纳入 A 类重点职业培训、苏州建'30分钟职业技能培训圈'、北京广东辽宁将 AI 通识课纳入中小学——目标2030年建成覆盖全学段全社会的 AI 教育体系。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "'人工智能+'澎湃经济新浪潮：6600+企业、人形机器人占全球过半",
+      "src": "中国日报网",
+      "time": "2026-08-12",
+      "sum": "WAIC 2026 drew 4,486 exhibits; China's AI firms pass 6,600, humanoid share >50% globally.",
+      "url": "https://china.chinadaily.com.cn/a/202608/12/WS6a7c0280a310d709c2fc2c54.html",
+      "body": "2026世界人工智能大会落幕：4486项展品、351款全球首发、177个采购团组意向采购约203.6亿元（同比+25%）；截至2026年6月我国 AI 企业超6600家（全球占比15%），人形机器人整机400余款占全球一半以上、人形与四足占全球销量80%；'人工智能+'正从技术变量转为价值增量。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "朱雀三号遥二火箭完成我国首次着陆腿式陆地回收",
+      "src": "央视网",
+      "time": "2026-08-19",
+      "sum": "Zhuque-3 reentry stage lands on legs in Gansu — China joins elite reusable-rocket club.",
+      "url": "https://news.cctv.com/2026/08/19/ARTIIu40E0nWeNxfk92VkMXB260819.shtml",
+      "body": "8月19日7:35，朱雀三号遥二运载火箭在东风商业航天创新试验区发射，将鸿鹄03星送入轨道，一子级按程序返回并稳稳着陆于甘肃民勤预定场坪——我国首次以着陆腿方式完成入轨火箭一子级陆地可控回收，蓝箭航天成为全球第四家实现轨道级一子级回收的企业，发射成本有望降80%以上。",
+      "location": "",
+      "highlights": ""
+    }
+  ],
+  "daily": [
+    {
+      "ttl": "习近平同越共中央总书记、国家主席苏林会谈",
+      "src": "新华社",
+      "time": "2026-08-19",
+      "sum": "中越元首在北京会谈，共同引领具有战略意义的中越命运共同体建设走深走实。",
+      "url": "https://epaper.bingtuannet.com/pc/att/202408/20/7c2e9f56-f783-4c9d-944f-8a91a0ea8cb8.pdf",
+      "body": "8月19日，中共中央总书记、国家主席习近平在北京人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈，强调秉持友好初心、赓续传统友谊，持续深化具有战略意义的中越命运共同体建设。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "国家医保局发布《全民医疗保障'十五五'规划》",
+      "src": "新华社/国家医保局",
+      "time": "2026-08-19",
+      "sum": "基本医保参保率每年保持95%左右，长期护理保险覆盖所有统筹地区。",
+      "url": "https://www.news.cn/",
+      "body": "国家医保局8月19日发布《全民医疗保障'十五五'规划》：基本医疗保险参保率每年保持在95%左右，长期护理保险制度覆盖所有统筹地区，目录内住院费用基金支付比例职工稳定在80%左右、居民70%左右，生育津贴直接发放到个人。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "生态环境法典8月20日起施行",
+      "src": "新华社",
+      "time": "2026-08-19",
+      "sum": "我国首部生态环境法典明起施行，多部门部署学习宣传与贯彻。",
+      "url": "https://www.news.cn/",
+      "body": "生态环境法典自8月20日起施行，最高法同步发布6件海洋生态环境司法保护典型案例；多部门部署学习宣传工作，推动绿色循环赛道价值重估，全国碳市场将扩围至石化、化工等高排放行业。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "C919 首条国际航线开通",
+      "src": "新华社",
+      "time": "2026-08-19",
+      "sum": "国产大飞机 C919 开通首条国际航线，海外网友喊话'快飞到我这来'。",
+      "url": "https://www.news.cn/xhsxw.htm",
+      "body": "C919 首条国际航线正式开通，引发海外网友关注；新华社权威快报显示，国产大飞机正加速走向国际市场，相关话题在海内外社交平台持续升温。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "江泽民生平和思想研讨会在京举行",
+      "src": "新华社/腾讯新闻",
+      "time": "2026-08-17至19",
+      "sum": "蔡奇出席开幕式并讲话，研讨会于8月17日至19日在北京举行。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1506a83078d93552",
+      "body": "8月17日至19日，江泽民生平和思想研讨会在北京举行，中共中央政治局常委、中央书记处书记蔡奇出席开幕式并讲话。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "以色列媒体称以与黎巴嫩真主党停火",
+      "src": "人民日报/环球网",
+      "time": "2026-08-19",
+      "sum": "多方关注中东局势，以媒体称以黎停火，但以方随后又空袭黎南部。",
+      "url": "https://www.people.com.cn/",
+      "body": "据以色列媒体，以色列与黎巴嫩真主党达成停火；但同日以方'同意停火'后再次空袭黎巴嫩南部，地区局势仍高度脆弱。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "韩国总统：韩朝所有沟通渠道均已中断",
+      "src": "人民日报",
+      "time": "2026-08-19",
+      "sum": "半岛局势趋紧，韩方称韩朝沟通渠道全部中断。",
+      "url": "https://www.people.com.cn/",
+      "body": "韩国总统表示，韩朝所有沟通渠道均已中断，半岛无核化与对话前景再度蒙上阴影，国际社会呼吁保持克制。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "俄堪察加半岛附近海域发生多次强震",
+      "src": "人民日报",
+      "time": "2026-08-19",
+      "sum": "俄远东堪察加半岛附近海域接连强震，引发海啸与地质活动关切。",
+      "url": "https://www.people.com.cn/",
+      "body": "俄罗斯堪察加半岛附近海域发生多次强震，俄方监测显示地壳活动活跃，相关地区发布海啸与防灾提示。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "哥伦比亚强震伤亡上升，最贫困省份受灾严重",
+      "src": "新华社",
+      "time": "2026-08-19",
+      "sum": "哥强震死亡人数升至281人，逾10万人受灾，救援持续。",
+      "url": "https://www.news.cn/",
+      "body": "哥伦比亚强震伤亡持续上升，死亡人数达281人、逾10万人受灾，最贫困省份受灾严重；多国与国际组织启动援助通道。",
+      "location": "",
+      "highlights": ""
+    },
+    {
+      "ttl": "欧盟公布'欧洲技术主权一揽子方案'",
+      "src": "人民日报",
+      "time": "2026-08-19",
+      "sum": "欧盟谋求技术主权，强化 AI、半导体、云计算与开源能力建设。",
+      "url": "https://www.people.com.cn/",
+      "body": "欧盟委员会公布'欧洲技术主权一揽子方案'，提出加强人工智能、半导体、云计算和开源等领域能力，以减少对外部技术依赖、增强数字自主性与韧性。",
+      "location": "",
+      "highlights": ""
+    }
+  ],
+  "leisure": [
+    {
+      "ttl": "2026北京西城百姓戏剧文化市集",
+      "src": "央广网/腾讯新闻",
+      "time": "2026-08-21至23",
+      "sum": "专业戏剧舞台进潮流商圈，3天不同主题好戏轮番登台。",
+      "url": "https://new.qq.com/rain/a/20260820A02N4S00",
+      "body": "市集将专业戏剧舞台引入西单更新场 THE NEW 户外下沉广场，通过专场演出、商圈快闪、沉浸式互动、集章打卡打造'逛市集、看大戏、玩互动、兑好礼'一站式体验；每晚18:00主舞台开演，8/21传统演绎、8/22阖家同欢、8/23潮乐聚场。",
+      "location": "西单更新场 THE NEW 户外下沉广场（西城区）",
+      "highlights": "免费参与；金融街购物中心8/22-23戏剧快闪+戏曲手工体验（画团扇/涂皮影）；经典戏剧角色巡游偶遇合影；《小王子》《四世同堂》《歌剧魅影》人物现身；投'福包'、捶丸古风竞技+两大打卡装置。户外场次关注天气预报、备雨具。"
+    },
+    {
+      "ttl": "第六届金台市集·CBD咖啡青年节",
+      "src": "北京本地宝",
+      "time": "2026-08-20至23",
+      "sum": "100+摊位、60+咖啡品牌，一次喝遍15国风味。",
+      "url": "https://bj.bendibao.com/xiuxian/?page=4",
+      "body": "第六届金台市集 CBD 咖啡青年节循热爱指引返场，精选人气品牌，携百余种风味与体验打开秋天，是本周末朝阳区咖啡爱好者的集中打卡地。",
+      "location": "财富金融中心 FFC 南广场（朝阳区）",
+      "highlights": "免费入场；100+摊位、60+咖啡品牌、15国风味；8/20-23 集中举办，建议错峰前往避免排队。"
+    },
+    {
+      "ttl": "北京首届大型配饰主题市集",
+      "src": "北京本地宝",
+      "time": "2026-08-20至23",
+      "sum": "200+摊位、覆盖51城，纯粹以配饰为主题的北京首届市集。",
+      "url": "https://bj.bendibao.com/xiuxian/?page=4",
+      "body": "北京第一届纯粹以配饰为主题的大型市集，项链、耳环、戒指、发饰、胸针、甲片、帽子、包袋、包挂等一应俱全；200+摊位中65%来自北京之外，覆盖全国51个城市。",
+      "location": "望京昆泰嘉瑞文化中心（朝阳区望京）",
+      "highlights": "免费入场；200+摊位、65%外地摊主、覆盖51城；适合淘独一无二配饰，周末人流大建议早到。"
+    },
+    {
+      "ttl": "2026第十届京菜美食文化节",
+      "src": "微博@京菜美食文化节",
+      "time": "2026-08-21至30",
+      "sum": "隆福寺'食'荟：京菜+全国小吃+国际风味，每天16:30-22:00。",
+      "url": "https://weibo.com/1841671207/5333917437791737",
+      "body": "第十届京菜美食文化节·隆福京彩好'食'荟落地隆福寺：小龙虾煎饼、烤鸭卷饼、烤鸭披萨、桂花醪糟、福建非遗光饼/芋饺、印度抛饼、兵团烤串、海盐冰淇淋、沙茶卤煮、巴蜀凉粉、港式小吃、孙尼额芬白糕等吃喝玩逛全有。",
+      "location": "北京隆福寺（东城区）",
+      "highlights": "免费逛展；8/21-30 每天16:30-22:00；部分小吃收费，建议带移动支付；隆福寺周边可联动逛美术馆与书店。"
+    },
+    {
+      "ttl": "2026世界机器人大会（公众开放日）",
+      "src": "北京本地宝/聚好玩",
+      "time": "2026-08-19至23（公众日8/22-23）",
+      "sum": "上千款机器人、150+新品首发，亦庄主场。",
+      "url": "https://bj.bendibao.com/xiuxian/?page=4",
+      "body": "2026世界机器人大会在北京经济技术开发区举行，主题'人机共生，产需共融'：上千款机器人展品、150余款新品首发，人形机器人、机器人表演、咖啡机器人齐聚；8/22-23为公众开放日，18岁以下与60岁以上人群免费。",
+      "location": "北人亦创国际会展中心（亦庄，地铁亦庄线荣昌东街站直达）",
+      "highlights": "需预约购票；公众日8/22-23，18岁以下及60岁以上免费；建议提前在官方渠道预约，展馆大预留半日以上；工作日人流较少。"
+    }
+  ],
+  "english": {
+    "听": {
+      "title": "Who does the housework? (BBC 6 Minute English · Ep.260813)",
+      "source": "BBC Learning English",
+      "body": "BBC 6 Minute English — Who does the housework? (Episode 260813 / 13 Aug 2026)\n\nNeil: Hello, this is 6 Minute English from BBC Learning English. I'm Neil.\nPippa: And I'm Pippa. When it comes to household chores, jobs like cleaning, washing clothes or looking after the kids, it's often women who do most of the work. Here, two female listeners of BBC World Service programme People Fixing the World share their experiences. Do they sound familiar to you?\n\nListener 1: I do everything. I do all the house chores, I do the food shopping, I do all the cooking, I clean the bathroom.\nListener 2: Are the chores done equally between me and my husband? No, they're not done equally. I do most of the chores.\n\nPippa: So, you're a family man, Neil. Do you do your fair share of household chores?\nNeil: I think so. My wife works part time and I work full time, so when I'm not working, I do things, and when she's not working, she does things.\nPippa: Yeah, it's similar in my house, so me and my husband try to split things, but it's difficult, isn't it?\n\nPippa: Figures from UN Women suggest that every day women around the world spend three hours more than men on unpaid care and domestic work. So, in this episode, we'll be hearing about two projects helping husbands and wives share the housework more fairly.\n\nNeil: But now I have a question for you, Pippa. According to a survey by Good Housekeeping magazine earlier this year, what is the most hated household chore in Britain? a) deep cleaning the oven, b) scrubbing the toilet, or c) cleaning the windows?\nPippa: I'm going to say deep cleaning the oven because I really hate that job.\n\nNeil: The first project is on the remote Indonesian island of Rote. Men traditionally work as rice farmers or fishermen, while women look after the home, the children and older people. But with few washing machines and no running water, these domestic chores take a long time.\nPippa: The NGO ARUNGI runs a project trying to change attitudes. Mama Shilpa, a community leader, explains: \"It is expected that the tasks done in the house — holding the child, feeding the child, washing dishes, cooking — will all be done by the mother.\"\nNeil: On Rote, cleaning, cooking and sweeping are considered women's work — a negative term for boring and repetitive tasks traditionally done by women.\n\nPippa: Research suggests women in wealthy countries also spend much more time on unpaid care work. In Croatia, the NGO Status M runs their Superdads project. Project worker Anamarija Sočo leads workshops encouraging dads and sons to take pressure off mums.\nAnamarija Sočo: \"Mothers have more space for their careers, or hobbies, or just simply to rest — I mean, just to take a breather. Women tend to especially appreciate men who do these kinds of chores. And when they start pulling their weight, then they jokingly say that women tend to nag less.\"\n\nPippa: Both NGO projects agree: men doing more around the house results in happier homes. So, what was the answer to your quiz, Neil?\nNeil: The most hated chore in Britain is cleaning the windows — 23% of people said so.\n\nVocabulary:\n- chores: household tasks like cleaning, washing and ironing that have to be done regularly.\n- fair share: a reasonable amount that you should do.\n- women's work: a negative term for boring, repetitive tasks stereotypically done by women.\n- division of labour: a way of organising work where different tasks are done by different groups of people.\n- take a breather: (idiom) to stop what you're doing for a short time and rest.\n- pull your weight: to work as hard as everyone else doing the same job.\n\nTranscript source: BBC Learning English (not a word-for-word transcript). Quiz answer: cleaning the windows.",
+      "zh": "本期讨论'谁做家务'：BBC 听众分享经验，印尼 Rote 岛与克罗地亚的 NGO 项目推动夫妻更公平分担家务。quiz 答案：英国人最讨厌的家务是擦窗户（23% 受访者）。重点词汇：chores（家务）、fair share（公平分担）、women's work（女性专属的重复性杂活）、division of labour（劳动分工）、take a breather（歇口气）、pull your weight（尽本分）。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813"
+    },
+    "说": {
+      "title": "Speaking · Share the load at home",
+      "source": "",
+      "body": "Describe how chores are divided in your household. Do you think the division is fair? Tell a story about a chore you hate most and how you cope with it. Try to use at least three of today's phrases: 'do my fair share', 'pull your weight', 'take a breather', 'division of labour'.",
+      "zh": "描述你家里家务如何分配，你觉得公平吗？讲一件你最讨厌的家务以及你是怎么应付的。尽量用上今天至少三个短语：do my fair share / pull your weight / take a breather / division of labour。",
+      "url": ""
+    },
+    "读": {
+      "title": "Growth driver shifts from bricks to bits (China Daily · 2026-08-17)",
+      "source": "China Daily",
+      "body": "Growth driver shifts from bricks to bits\nChina Daily | 2026-08-17 | By a former prime minister of Mongolia\n\nIf you want to understand where the world is heading, stop looking at the skyscraper cranes in Beijing and start looking at the 5G base stations in the countryside. For decades, the story of China was the story of \"hard infrastructure\" — concrete, steel and a property market that seemed like it would never stop climbing. But something fundamental has changed.\n\nWhile the world was busy watching China's real estate sector contract by 0.2 percent and its construction industry dip by 4 percent in the first half of 2026, the country was quietly finishing a massive rewiring of its entire economic base. China's GDP still grew by a steady 4.7 percent to reach 69.57 trillion yuan ($10.31 trillion) in the first half of 2026, but the engines driving that growth weren't bulldozers — they were algorithms.\n\nChina is building a new kind of \"central nervous system\" for its society. By July 2026, the country had installed 5.1 million 5G base stations. That's not just a statistic; it's a platform. It has applied 5G and gigabit optical networks across 94 major categories of the national economy. And it isn't stopping there. It has already made significant strides in verifying 6G system architecture.\n\nThe second layer of this rewiring is energy. China didn't just meet its 2030 wind and solar power targets — it crushed them six years early in 2024. By the end of July 2026, its solar capacity hit a staggering 1,274 gigawatts. When your nonfossil energy consumption exceeds crude oil for the first time in history — as China did in 2024 — you are no longer just an oil importer; you are an exporter of the future.\n\nOn July 17, 2026, President Xi Jinping stood up at the World AI Conference in Shanghai and essentially offered to share the \"operating system\" of this new era with the rest of the world. He called AI a \"symphony of international cooperation\" rather than a solo act. That's not just building a coalition; that's building the World Artificial Intelligence Cooperation Organization, headquartered in Shanghai with 29 founding members.\n\nWhile some are trying to build an \"AI Iron Curtain\", China is pitching an open-source model where intelligence is a public good, not a private commodity. The core conclusion is this: China is betting that if you automate the basics, you change the \"superstructure\" of society itself.",
+      "zh": "文章指出，中国经济增长引擎正从'钢筋水泥'转向'数智动力'：截至2026年7月已建成510万个5G基站，非化石能源消费首超原油；中国把 AI 称为国际合作的'交响乐'而非独奏，并向全球南方开放开源智能与绿色能源。核心结论：自动化基础，将重塑社会'上层建筑'。",
+      "url": "https://www.chinadaily.com.cn/a/202608/17/WS6a826840a31073853ec539ab.html"
+    },
+    "写": {
+      "title": "Writing · From hard infrastructure to a 'central nervous system'",
+      "source": "",
+      "body": "Write 150–200 words on this prompt: 'Some say a country's strength used to be measured in concrete and steel; today it is measured in algorithms and green energy. Do you agree? Use evidence from the article and your own observation.'",
+      "zh": "写一篇150–200词：有人认为一国实力过去看钢筋水泥，今天看算法与绿色能源，你同意吗？结合文章证据与你自己的观察展开。",
+      "url": ""
+    },
+    "练": {
+      "title": "Practice · Phrases & grammar",
+      "source": "",
+      "body": "1) Fill in: 'My roommate never ___ his ___ — I end up doing all the dishes.' (pull / weight)  2) Rewrite using 'division of labour': 'Men farm, women cook and clean.'  3) Make a sentence with 'take a breather'.  4) Grammar: 'By July 2026, China had installed 5.1 million 5G base stations.' → Identify the tense and say why it is used.",
+      "zh": "1) 填空：pull his weight。2) 改写：There is a clear division of labour — men work in the fields while women cook and clean. 3) 造句：After two hours of studying, I took a breather with a cup of tea. 4) 语法：过去完成时（past perfect），表示在2026年7月这一过去时间点之前已经完成的动作。",
+      "url": ""
+    }
+  }
+}
